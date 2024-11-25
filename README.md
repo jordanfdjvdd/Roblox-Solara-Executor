@@ -5,3 +5,5 @@
 ## 3. Run the game
 
 🚀 **Solara Executor** is an innovative Roblox script executor built for top-tier performance, seamless script execution, and a user-friendly interface. Fully aligned with the latest Roblox updates, it prioritizes security, simplicity, and efficiency. Perfect for gamers, developers, and modding enthusiasts seeking to elevate their Roblox experience to the next level.
+
+![solara3](https://github.com/user-attachments/assets/e4df5faa-addf-4442-931f-34744b6c5d07)
